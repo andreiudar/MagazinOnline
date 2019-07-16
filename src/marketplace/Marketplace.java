@@ -31,4 +31,4 @@ public class Marketplace extends Metode {
     this.contBancarMarketplace = cont;
   }
 
-}
+ }
